@@ -1,5 +1,4 @@
 <!-- Think about a logo for the font? -->
-
 <!-- Short Explanation, #FIXME take the one from the Font Description-->
 # OB-Freie
 Old Babylonian Freie - A font made for the Institut für Altorientalistik Berlin, based on aBZL. 
@@ -22,6 +21,14 @@ What you shouldn't use it for
 
 # Cite like this
 <!-- give a citation example in a code-block, maybe a .bib file? think about that! #TODO bibfile once I have a DOI and everything -->
+
+# SVGs
+<!-- FIXME:Rename ligatures to u123123u200du222222 etc. -->
+ The *svg* files are automatically named to their respective *Unicode* codepoints. I checked some of them, however I did not make the effort to check all of them by hand. Signs that are from the *'ss01'* table have the table's name appended. <--! #FIXME make footnote with link/explanation of ss01 --> Unlike the font itself the *svgs* are licensed through CC BY-NC-SA 4.0. 
+
+# Contact 
+<!-- Insert a Mailadress with a prefix i.e. font@cziegeler.com -->
+If a sign is missing, attached to the wrong codepoint, you need a small number of signs in higher quality, or have any other problem/idea. Feel free to open an *issue* through Github or mail me at ...
 
 # Licensing 
 <!-- give short rundown of what the two licenses apply to, and what you should not do-->
