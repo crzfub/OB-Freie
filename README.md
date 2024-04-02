@@ -1,3 +1,5 @@
+<!-- Think about a logo for the font? -->
+
 <!-- Short Explanation, #FIXME take the one from the Font Description-->
 # OB-Freie
 Old Babylonian Freie - A font made for the Institut für Altorientalistik Berlin, based on aBZL.
