@@ -54,7 +54,7 @@ however - change the "Github" thing to refubium and include doi if we get one?
 
 # SVGs
 <!-- FIXME:Rename ligatures to u123123u200du222222 etc. -->
- The *svg* files are automatically named to their respective *Unicode* codepoints. I checked some of them, however I did not make the effort to check all of them by hand. Signs that are from the *'ss01'* table have the table's name appended. <--! #FIXME make footnote with link/explanation of ss01 --> Unlike the font itself the *svgs* are licensed through CC BY-NC-SA 4.0. 
+ The *svg* files are automatically named to their respective *Unicode* codepoints. I checked some of them, however I did not make the effort to check all of them by hand. Signs that are from the *'ss01'* table have the table's name appended. <!-- #FIXME make footnote with link/explanation of ss01 --> Unlike the font itself the *svgs* are licensed through CC BY-NC-SA 4.0. 
  Due to the slightly cumbersome process of generating SVGs for an open type font - I only plan to update these on major releases for now. 
 # Contact 
 <!-- Insert a Mailadress with a prefix i.e. font@cziegeler.com -->
