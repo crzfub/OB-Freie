@@ -1,2 +1,4 @@
 *.code-workspace
 todo.md
+.DS_STORE
+.gitignore
