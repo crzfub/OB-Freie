@@ -2,7 +2,7 @@
 Old Babylonian Freie - A font made for the Institut für Altorientalistik Berlin, based on aBZL. 
 The current version is *v.1.1* (6. April 2024)
 
-*Other font-formats (woff2 and ttf and versions without the Latin characters) will follow shortly along with a quick guide pdf.*
+*Other font-formats (woff2 and ttf and versions without the Latin characters) will be added shortly.*
 
 ## Quick Guide 
 Follow [this download link for the latest version](https://github.com/crzfub/OB-Freie/releases/latest/download/OBFreie.zip) or navigate to the releases to pick a different version. 
