@@ -34,6 +34,6 @@ Due to the slightly cumbersome process of generating SVGs for an open type font 
 
 ## Licensing
 
-The font is licensed through 'SIL OPEN FONT LICENSE Version 1.1'.
+The Font OBFreie © 2023 is licensed under ['SIL OPEN FONT LICENSE Version 1.1'](https://github.com/crzfub/OB-Freie/blob/main/OBFreie/LICENSE.txt).
 
 [SVGs Old Babylonian Freie](https://github.com/crzfub/OB-Freie/tree/main/svg) © 2023 by Corvin Ziegeler is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
