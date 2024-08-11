@@ -1,7 +1,11 @@
 # OB Freie
 _Old Babylonian Freie - A font made for the Institut für Altorientalistik at Freie Universität Berlin, based on aBZL._
 > The current version is **v.1.2** (11. August 2024)
+> Currently available formats for OB Freie are: `ttf`, `otf`
+> Additionally OBNL (Old Babylonian No Latin) - a version without Latin characters - is available as: `ttf`, `otf`, `woff2`, `svg`
 
+> [!WARNING]
+> For now the font is optimised for the 'Light' weight. The 'Regular' and 'Bold' weights were derived through algorithms from the 'Light' weight. Hence they are considered 'experimental'. Yet in print at sizes such as 12pt you might find 'Regular' more readable than 'Light' without much loss in detail. Until the redraw is completed some signs will be unusable in print at large sizes (i.e. for posters), this effect is worse in 'Regular' and 'Light'.
 
 ## Quick Guide
 
@@ -12,9 +16,6 @@ Extract the archive and double-click the `.otf` file to open your system’s nat
 (Note: You may need to restart Microsoft Office programs for the fonts to load correctly.)
 
 For writing Cuneiform Characters I would advise to use the [Enmerkar Keylayout by Robin Leroy](https://github.com/eggrobin/Enmerkar) or if that doesn't work on your system [NesiliKeys by Rolf Noyer](https://www.hethport.uni-wuerzburg.de/cuneifont/).
-
-> [!WARNING]
-> For now the font is optimised for the 'Light' weight. The 'Regular' and 'Bold' weights were derived through algorithms from the 'Light' weight. Hence they are labeled 'experimental'. Yet in print at sizes such as 12pt you might find 'Regular' more readable than 'Light' without much loss in detail. Until the redraw is completed some signs will be unusable in print at large sizes (i.e. for posters), this effect is worse in 'Regular' and 'Light'.
 
 
 ## Roadmap
@@ -30,7 +31,7 @@ For writing Cuneiform Characters I would advise to use the [Enmerkar Keylayout b
 
 ## SVGs
 
-The `svg` files are automatically named to their respective _Unicode_ codepoints. Signs that from the `ss01` or the `liga` table have the table's name appended. <!-- #TODO maybe footnote with link/explanation of ss01 --> Unlike the font itself the vectorgraphics are licensed through CC BY-NC-SA 4.0. The vectorgraphics are generated automatically and do not get checked individually by me. As I assume their use to be limited, until I find time to fully redraw all of them.
+The `svg` files are automatically named to their respective _Unicode_ codepoints. Signs that from the `ss01` or the `liga` table have the table's name appended. <!-- #TODO maybe footnote with link/explanation of ss01 --> Unlike the font itself the vectorgraphics are licensed through CC BY-NC-SA 4.0. The vectorgraphics until 1.5 are generated automatically and do not get checked individually by me. As I assume their use to be limited, until I find time to fully redraw all of them.
 
 ## Licensing
 
