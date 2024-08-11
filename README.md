@@ -1,13 +1,11 @@
 # OB Freie
 _Old Babylonian Freie - A font made for the Institut für Altorientalistik at Freie Universität Berlin, based on aBZL._
-<hr>
-
 > The current version is **v.1.2** (11. August 2024)
 
 
 ## Quick Guide
 
-Follow [this link to download the latest version](https://github.com/crzfub/OB-Freie/releases/latest/download/OBFreie.zip) or navigate to the releases page to select a different version.
+Follow [this link to download the latest version](https://github.com/crzfub/OB-Freie/releases/latest/download/OB_Freie.zip) or navigate to the releases page to select a different version.
 
 Extract the archive and double-click the `.otf` file to open your system’s native font installation dialog. Follow the on-screen instructions. You might prefer to install the `.ttf` file instead to ensure the broadest compatibility.
 
@@ -15,7 +13,7 @@ Extract the archive and double-click the `.otf` file to open your system’s nat
 
 For writing Cuneiform Characters I would advise to use the [Enmerkar Keylayout by Robin Leroy](https://github.com/eggrobin/Enmerkar) or if that doesn't work on your system [NesiliKeys by Rolf Noyer](https://www.hethport.uni-wuerzburg.de/cuneifont/).
 
-> [!WARNING] A Small Warning
+> [!WARNING]
 > For now the font is optimised for the 'Light' weight. The 'Regular' and 'Bold' weights were derived through algorithms from the 'Light' weight. Hence they are labeled 'experimental'. Yet in print at sizes such as 12pt you might find 'Regular' more readable than 'Light' without much loss in detail. Until the redraw is completed some signs will be unusable in print at large sizes (i.e. for posters), this effect is worse in 'Regular' and 'Light'.
 
 
