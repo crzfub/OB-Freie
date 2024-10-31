@@ -33,6 +33,22 @@ For writing Cuneiform Characters I would advise to use the [Enmerkar Keylayout b
 
 The `svg` files are automatically named to their respective _Unicode_ codepoints. Signs that from the `ss01` or the `liga` table have the table's name appended. <!-- #TODO maybe footnote with link/explanation of ss01 --> Unlike the font itself the vectorgraphics are licensed through CC BY-NC-SA 4.0. The vectorgraphics until 1.5 are generated automatically and do not get checked individually by me. As I assume their use to be limited, until I find time to fully redraw all of them.
 
+## Citation
+
+### BibTeX
+```bibtex
+@misc{Ziegeler2024,
+  author       = {Ziegeler, Corvin R.},
+  year         = {2024},
+  title        = {Old Babylonian Freie},
+  howpublished = {http://dx.doi.org/10.17169/refubium-44983},
+}
+```
+
+### APA
+Ziegeler, C. R. (2024). *Old Babylonian Freie*. [http://dx.doi.org/10.17169/refubium-44983](http://dx.doi.org/10.17169/refubium-44983)
+
+
 ## Licensing
 
 The OB Freie font © 2023 is licensed under the [SIL OPEN FONT LICENSE Version 1.1](https://github.com/crzfub/OB-Freie/blob/main/OBFreie/LICENSE.txt).
