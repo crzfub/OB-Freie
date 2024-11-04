@@ -1,6 +1,7 @@
 # OB Freie
 _Old Babylonian Freie - A font made for the Institut für Altorientalistik at Freie Universität Berlin, based on aBZL._
-> The current version is **v.1.2** (11. August 2024)
+> The current version is **2.0.0** (November 2024)
+> See [CHANGELOG.md](./CHANGELOG.md) for the history of updates.
 > Currently available formats for OB Freie are: `ttf`, `otf`
 > Additionally OBNL (Old Babylonian No Latin) - a version without Latin characters - is available as: `ttf`, `otf`, `woff2`, `svg`
 
@@ -16,17 +17,6 @@ Extract the archive and double-click the `.otf` file to open your system’s nat
 (Note: You may need to restart Microsoft Office programs for the fonts to load correctly.)
 
 For writing Cuneiform Characters I would advise to use the [Enmerkar Keylayout by Robin Leroy](https://github.com/eggrobin/Enmerkar) or if that doesn't work on your system [NesiliKeys by Rolf Noyer](https://www.hethport.uni-wuerzburg.de/cuneifont/).
-
-
-## Roadmap
-
-(subject to change)
-
-- [x] **v-1.2** - Add `.ttf` & `.woff2` + SVG update
-- [ ] **v-1.3** - Add all variants that have unique codepoints
-- [ ] **v-1.5** - Complete the redraw for 'OBFreie Light'
-- [ ] **v-2.0** - Complete redraw for 'OBFreie Regular' & 'OBFreie Bold'
-- [ ] **v-3.0** - Include all variants as `ss0n` features
 
 
 ## SVGs
